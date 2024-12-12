@@ -1,1 +1,1 @@
-# Magnetic_Bubble_Sort
+# Magnetic Bubble Sort
